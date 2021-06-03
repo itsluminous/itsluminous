@@ -5,8 +5,8 @@
     passion and it drives me to become a good professional and enhance my technical & creative skills.</h3>
 
 <h3 align="left">Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=prakashait9" alt="prakashait9" /></a> </p>
+<p align="left"> <a href="https://github.com/prakashait9"><img
+            src="https://github-profile-trophy.vercel.app/?username=prakashait9&theme=flat&margin-w=15&margin-h=15&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&rank=SECRET" alt="prakashait9" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
