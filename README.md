@@ -5,8 +5,8 @@
     passion and it drives me to become a good professional and enhance my technical & creative skills.</h3>
 
 <h3 align="left">Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/prakashait9"><img
-            src="https://github-profile-trophy.vercel.app/?username=prakashait9&theme=flat&margin-w=15&margin-h=15&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&rank=SECRET" alt="prakashait9" /></a> </p>
+<p align="left"> <a href="https://github.com/itsluminous"><img
+            src="https://github-profile-trophy.vercel.app/?username=itsluminous&theme=flat&margin-w=15&margin-h=15&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&rank=SECRET" alt="itsluminous" /></a> </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> 
@@ -47,12 +47,12 @@
 
 <div>
 <p><img 
-        src="https://github-readme-stats.vercel.app/api?username=prakashait9&count_private=true&show_icons=true&include_all_commits=true&locale=en"
-        alt="prakashait9" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=itsluminous&count_private=true&show_icons=true&include_all_commits=true&locale=en"
+        alt="itsluminous" /></p>
 
 <p><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashait9&show_icons=true&locale=en&layout=compact"
-        alt="prakashait9" /></p>  
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=itsluminous&show_icons=true&locale=en&layout=compact"
+        alt="itsluminous" /></p>  
 </div>
 
 <p><i>Most used languages shown above does not indicate my skill level. It's a github metric of which languages I have used most in my github repos.</i></p>
@@ -60,5 +60,5 @@
 
 <h3 align="left">Visitor Count:</h3>
 <img 
-        src="https://profile-counter.glitch.me/prakashait9/count.svg"
-        alt="prakashait9" />
+        src="https://profile-counter.glitch.me/itsluminous/count.svg"
+        alt="itsluminous" />
