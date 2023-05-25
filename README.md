@@ -1,8 +1,7 @@
 <!-- Readme generated with help of https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <h1 align="center">Hi 👋, I'm Prakash</h1>
-<h4 align="center">I am a full stack developer with experience in end to end flow of software development. Coding is my
-    passion and it drives me to become a good professional and enhance my technical & creative skills.</h3>
+<h4 align="center">I am a full stack developer with experience in end to end flow of software development.</h3>
 
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/itsluminous"><img
@@ -57,8 +56,3 @@
 
 <p><i>Most used languages shown above does not indicate my skill level. It's a github metric of which languages I have used most in my github repos.</i></p>
 
-
-<h3 align="left">Visitor Count:</h3>
-<img 
-        src="https://profile-counter.glitch.me/itsluminous/count.svg"
-        alt="itsluminous" />
