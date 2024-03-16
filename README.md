@@ -28,7 +28,7 @@
         <a href="https://backbonejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40" /> </a>
 </p>
 
-<h3 align="left">Cloud Native & Platforms:</h3>
+<h3 align="left">Cloud & Platforms:</h3>
 <p align="left"> 
         <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
         <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
