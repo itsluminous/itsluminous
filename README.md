@@ -3,9 +3,11 @@
 <h1 align="center">Hi there 👋, Hope you are having a good day!</h1>
 <h4 align="center">I am a polyglot developer with experience in end to end flow of software development.</h3>
 
+<!--
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/itsluminous"><img
             src="https://github-profile-trophy.vercel.app/?username=itsluminous&theme=flat&margin-w=15&margin-h=15&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&rank=SECRET" alt="itsluminous" /></a> </p>
+-->
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> 
@@ -58,4 +60,4 @@
         alt="itsluminous" /></p>  
 </div>
 
-<p><i>Most used languages shown above does not indicate my skill level. It's a github metric of which languages I have used most in my github repos.</i></p>
+<p><i>Most used languages above does not indicate my skill level. It's a metric of which languages I have used most in my github repos.</i></p>
