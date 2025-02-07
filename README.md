@@ -6,6 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=itsluminous&color=fb4362)
 
+<!--  Find badges here : https://github.com/Ileriayo/markdown-badges -->
 <h3>When I code, I rely on</h3>
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
